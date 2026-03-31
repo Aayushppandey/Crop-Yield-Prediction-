@@ -7,7 +7,7 @@ REG: 25BAI10873
 Course:FUNADAMENTAL IN AI ML
 College: VIT Bhopal Unversity
 
-```text
+---
                      CROP YIELD PREDICTION USING AI/ML
 
 1. INTRODUCTION
